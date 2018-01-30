@@ -1,4 +1,4 @@
-# Synthesis-and-Modulation-and-ASSGN2
+# Synthesis-Modulation-and-ASSGN2
 
 The next assignment is to make a short piece using a library of at least 8 of your own SynthDefs,
 using Patterns and/or Pdefs that use the SynthDefs as their \instrument.  This piece is due on gitHub
